@@ -12,6 +12,16 @@ The goal of this project is to understand the structure, patterns, and insights 
 
 ---
 
+## 📊 Dataset Source
+
+- Dataset Name: Netflix Movies and TV Shows
+- Source: Kaggle (Public Dataset)
+- Link: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+This dataset is publicly available and is used in this project for educational and learning purposes.
+
+---
+
 ## 🎯 Objective of the Project
 
 - Understand the **distribution of Movies vs TV Shows**
